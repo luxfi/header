@@ -30,7 +30,7 @@ import (
 	"github.com/luxfi/geth/common"
 	"github.com/luxfi/geth/core/types"
 	"github.com/luxfi/geth/rlp"
-	"crypto/sha3"
+	"golang.org/x/crypto/sha3"
 )
 
 // Format represents the RLP encoding format for headers.

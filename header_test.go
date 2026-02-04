@@ -14,11 +14,11 @@ import (
 
 // Lux Mainnet Genesis constants
 const (
-	LuxMainnetGenesisHash  = "0x3f4fa2a0b0ce089f52bf0ae9199c75ffdd76ecafc987794050cb0d286f1ec61e"
-	LuxMainnetStateRoot    = "0x2d1cedac263020c5c56ef962f6abe0da1f5217bdc6468f8c9258a0ea23699e80"
-	LuxMainnetTimestamp    = 1730446786
-	LuxMainnetGasLimit     = 12000000
-	LuxMainnetBaseFee      = 25000000000
+	LuxMainnetGenesisHash = "0x3f4fa2a0b0ce089f52bf0ae9199c75ffdd76ecafc987794050cb0d286f1ec61e"
+	LuxMainnetStateRoot   = "0x2d1cedac263020c5c56ef962f6abe0da1f5217bdc6468f8c9258a0ea23699e80"
+	LuxMainnetTimestamp   = 1730446786
+	LuxMainnetGasLimit    = 12000000
+	LuxMainnetBaseFee     = 25000000000
 )
 
 // Zoo Mainnet Genesis constants
