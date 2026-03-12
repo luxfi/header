@@ -1,6 +1,6 @@
 module github.com/luxfi/header
 
-go 1.26
+go 1.26.1
 
 require (
 	github.com/luxfi/geth v1.16.69
